@@ -41,6 +41,9 @@ PWM Generator with 555 Timer IC:<br>
 Regulates the turning speed by generating Pulse Width Modulation (PWM) signals. Feeds into the voltage reference pins of the L298 drivers for precise motor control.
 <br>
 <br>
+Motors<br>
+For motors in this project i hace used two MG995 servo motors. But internal of these motors related to servo part (potetiometer) is removed and they are working as geared motors.<br>
+
 Functionalities:<br>
 •	Automatic sun tracking using LDRs and LM324 op-amps.<br>
 •	Manual control via joystick for user intervention.<br>
